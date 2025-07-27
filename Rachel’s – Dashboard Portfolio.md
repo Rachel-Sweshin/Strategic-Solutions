@@ -39,11 +39,11 @@ Power BI · DAX · Power Query · Excel · Python
 
 **Page 1: Localization Quality Overview**
 
-![Localization Quality Dashboard_MainPage.jpg](Rachel%E2%80%99s%20%E2%80%93%20Dashboard%20Portfolio%20219f69eae38980d09b3cd397087b65d6/Localization_Quality_Dashboard_MainPage.jpg)
+![Localization Quality Dashboard_MainPage.jpg](Localization_Quality_Dashboard_MainPage.jpg)
 
 📈
 
-![Localization Quality Dashboard_MainPageTT.jpg](Rachel%E2%80%99s%20%E2%80%93%20Dashboard%20Portfolio%20219f69eae38980d09b3cd397087b65d6/Localization_Quality_Dashboard_MainPageTT.jpg)
+![Localization Quality Dashboard_MainPageTT.jpg](Localization_Quality_Dashboard_MainPageTT.jpg)
 
 📈
 
@@ -55,11 +55,11 @@ Drill Through Page
 
 **Page 2: Vendor Performance Dashboard**    
 
-![Localization Quality Dashboard_byVendor.jpg](Rachel%E2%80%99s%20%E2%80%93%20Dashboard%20Portfolio%20219f69eae38980d09b3cd397087b65d6/Localization_Quality_Dashboard_byVendor.jpg)
+![Localization Quality Dashboard_byVendor.jpg](Localization_Quality_Dashboard_byVendor.jpg)
 
  **Page 3: Key Influencers & Deep Dive**   
 
-![Localization Quality Dashboard_Insights.jpg](Rachel%E2%80%99s%20%E2%80%93%20Dashboard%20Portfolio%20219f69eae38980d09b3cd397087b65d6/Localization_Quality_Dashboard_Insights.jpg)
+![Localization Quality Dashboard_Insights.jpg](Localization_Quality_Dashboard_Insights.jpg)
 
 💡**Key Project Outcomes:** By visualizing vendor-level severity-weighted errors, turnaround time, and cost, I successfully:
 
