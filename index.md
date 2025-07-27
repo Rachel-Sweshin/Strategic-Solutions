@@ -47,11 +47,11 @@ Power BI · DAX · Power Query · Excel · Python
 
 📈
 
-![Localization Quality Dashboard_MainPageDT.jpg](Rachel%E2%80%99s%20%E2%80%93%20Dashboard%20Portfolio%20219f69eae38980d09b3cd397087b65d6/Localization_Quality_Dashboard_MainPageDT.jpg)
+![Localization Quality Dashboard_MainPageDT.jpg](Localization_Quality_Dashboard_MainPageDT.jpg)
 
 Drill Through Page
 
-![image.png](Rachel%E2%80%99s%20%E2%80%93%20Dashboard%20Portfolio%20219f69eae38980d09b3cd397087b65d6/image.png)
+![image.png](image.png)
 
 **Page 2: Vendor Performance Dashboard**    
 
