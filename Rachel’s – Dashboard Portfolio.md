@@ -2,7 +2,7 @@
 
 - **Localisation Quality and Vendor Performance Analysis Project**
 
-![Logo.jpg](Rachel%E2%80%99s%20%E2%80%93%20Dashboard%20Portfolio%20219f69eae38980d09b3cd397087b65d6/Logo.jpg)
+![Logo.jpg](Logo.jpg)
 
 Welcome to my portfolio!
 
